@@ -1,11 +1,11 @@
 package main
 
 import (
-	"fmt"
+  "fmt"
 
-	"github.com/skryking/stringutil"
+  "github.com/skryking/stringutil"
 )
 
 func main() {
-	fmt.Printf(stringutil.Reverse("!oG ,olleH"))
+  fmt.Printf(stringutil.Reverse("dlrow olleh"))
 }
